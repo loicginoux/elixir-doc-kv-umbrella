@@ -16,8 +16,8 @@ config :kv, :routing_table, [{?a..?z, node()}]
 
 if Mix.env() == :prod do
   config :kv, :routing_table, [
-    {?a..?m, :"foo@computer-name"},
-    {?n..?z, :"bar@computer-name"}
+    {?a..?m, :"foo@Mac-mini-de-Loic"},
+    {?n..?z, :"bar@Mac-mini-de-Loic"}
   ]
 end
 
