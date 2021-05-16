@@ -10,7 +10,8 @@ Umbrella project with two apps:
 kv: Core Key-value store module
 kv_server TCP Server for handling requests
 
-https://www.dropbox.com/s/6cscpxifpowpton/Screenshot%202021-05-17%20at%2000.31.53.png?dl=0
+![image](https://github.com/loicginoux/elixir-doc-kv-umbrella/blob/master/observer_screenshot.png)
+
 
 Run all tests: mix test
 
